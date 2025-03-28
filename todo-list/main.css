@@ -1,0 +1,3 @@
+.complete input[type="text"] {
+	text-decoration: line-through;
+}
