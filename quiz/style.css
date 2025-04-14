@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#question {
+    padding: 30px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+}
+
+#answer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button.list {
+    padding: 30px;
+    margin-bottom: 5px;
+    background-color: aliceblue;
+}
