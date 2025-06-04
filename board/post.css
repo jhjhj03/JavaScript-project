@@ -1,0 +1,26 @@
+.container{
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+.meta{
+    font-size: 0.9rem;
+    color: #888;
+}
+
+#post-content{
+    margin-top: 20px;
+}
+
+.back{
+    margin-top: 40px;
+    text-align: right;
+}
